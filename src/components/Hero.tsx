@@ -13,8 +13,8 @@ function Hero() {
             <p className="text-xl text-mosque-text/80">
               A place of worship, learning, and community gathering
             </p>
-            <button className="bg-mosque-primary text-white px-8 py-3 rounded-lg hover:bg-mosque-primary/90 transition-colors">
-              Join Our Community
+            <button className="bg-mosque-primary text-white px-8 py-3 rounded-lg hover:bg-mosque-primary/90 transition-all duration-300 hover:scale-110 animate-bounce">
+             <a href='https://t.me/darusalam_manabarnootaa' target='_blank'> Join Our Community </a>
             </button>
           </div>
         </div>
