@@ -7,7 +7,7 @@ function Hero() {
       <div className="container relative mx-auto px-4 py-32">
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6 animate-fade-up">
-            <h1 className="text-5xl md:text-6xl font-bold bg-gradient-to-r from-blue-500 to-mosque-primary bg-clip-text text-transparent">
+            <h1 className="text-5xl md:text-6xl font-bold bg-gradient-to-r from-blue-500 to-mosque-dscolor bg-clip-text text-transparent">
               Welcome to<br /> Darusalam Islamic Center
             </h1>
             <p className="text-xl text-mosque-text/80">

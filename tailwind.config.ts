@@ -21,6 +21,7 @@ export default {
       colors: {
         mosque: {
           primary: "#1E4D4B",
+          dscolor:"#FFD700",
           secondary: "#C3A343",
           background: "#FDF8F3",
           text: "#2D3436",
