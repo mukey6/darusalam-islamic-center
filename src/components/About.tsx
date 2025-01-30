@@ -17,7 +17,7 @@ export default function About() {
             teaching.
           </p>
           <p className="text-mosque-text/80 text-lg leading-relaxed">Anas ibn Malik reported: The Messenger of Allah, peace and blessings be upon him, said: 
-            <span className="font-extrabold"> "Seeking knowledge is an obligation upon every Muslim."</span>
+            <span className="font-extrabold"> {`"Seeking knowledge is an obligation upon every Muslim."`}</span>
           </p>
           <div className="grid md:grid-cols-3 gap-8 mt-12">
             {/* <div className="p-6 rounded-lg bg-mosque-background">
