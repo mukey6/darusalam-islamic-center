@@ -9,7 +9,7 @@ export default function Services() {
         </h2>
         <div className="mb-12">
           <h3 className="text-2xl font-semibold text-mosque-primary mb-8 border-b-2 border-mosque-secondary pb-2">
-            Afaan Oromo Classes
+          Classes In Oromo/Afaan Oromotiin 
           </h3>
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
             {services
@@ -34,7 +34,7 @@ export default function Services() {
         </div>
         <div className="mb-12">
           <h3 className="text-2xl font-semibold text-mosque-primary mb-8 border-b-2 border-mosque-secondary pb-2">
-            English Classes
+          Classes in English Classes
           </h3>
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
             {services
